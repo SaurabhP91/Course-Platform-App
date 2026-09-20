@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+
+#countbtn{
+  display:flex;
+  width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5rem;
+  padding: 20px;
+  border-radius: 10px;
+  border-color: blueviolet;
+  border-style: double;
+  border-width: 10px;
+
+  background-color: #3c0c9c;
+
+  font-size: large;
+  font-weight: 600;
+
+  cursor: pointer;
+
+  font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
