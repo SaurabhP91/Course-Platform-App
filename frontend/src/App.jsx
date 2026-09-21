@@ -6,7 +6,7 @@ import './App.css'
 import {BrowserRouter as Router,Route,Routes} from "react-router-dom";
 import Home from './components/Home/Home'
 import Signup from './pages/Signup/Signup'
-import Login from './components/Login/login'
+import Login from './components/Login/Login'
 import Courses from './components/Courses/Courses';
 import Buy from './components/Buy/Buy'
 import Purchases from './components/Purchases/Purchases'
